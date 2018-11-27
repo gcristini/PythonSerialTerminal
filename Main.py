@@ -20,6 +20,7 @@ class Main:
         self._createWidgets()
 
         # # GUI
+
         # self._app = App("Serial Scanner", layout="grid", width=1280, height=960)
         # #self._app.
         # self._app_comListTitle = Text(self._app, text="Available COMs", grid=[0, 0])
